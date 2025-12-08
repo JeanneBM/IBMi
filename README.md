@@ -5,7 +5,9 @@
 
 - IBMi Documentation – https://www.ibm.com/docs/en/ibm-i  
 - IBMi ACS – https://www.ibm.com/support/pages/ibm-i-access-client-solutions  
-- IBMi Redbooks – https://www.redbooks.ibm.com  
+- IBMi Redbooks – https://www.redbooks.ibm.com
+
+- https://www.ibm.com/support/pages/ibm-i-access-acs-getting-started
 
 ## 2.1. Kluczowe elementy IBMi
 - **LPAR** – partycja logiczna systemu  
