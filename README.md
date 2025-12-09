@@ -1,3 +1,6 @@
+- https://pub400.com/cgi/signup.nd/start
+- https://as400i.com/
+
 # IBMi
 
 - https://developer.ibm.com/articles/i-newtoibmi/
