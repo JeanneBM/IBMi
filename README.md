@@ -1,3 +1,5 @@
+- struktura danych to kolejka (?)
+
 - https://pub400.com/cgi/signup.nd/start
 - https://as400i.com/
 
